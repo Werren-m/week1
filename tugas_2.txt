@@ -1,0 +1,32 @@
+#TUGAS
+
+Create summary about today lesson
+
+    About creating and learning the basic of git, using gitlab and git bash.
+    How to connect local directory with repository and how to upload to and clone from our repo.
+
+Github : Make repo dan push :
+a.) Tugas day 1
+b.) Tugas day 2
+
+Teori :
+
+apa itu git ?
+    git adalah version control system untuk men-track update yang di lakukan terhadap source code.
+
+untuk apa fungsi dari command :
+
+git init : 
+    git init digunakan untuk meng inisialisasikan git repository kosong di local directory.
+
+git remote add origin <link_name>
+    menghubungkan local directory ke git repository
+
+git add <file_name>
+    memilih file untuk di kirimkan ke git repository
+
+git commit -m "<message_name>"
+    mengkonfirmasi item untuk di kirim dan juga membuat deskripsi tentang update yang di lakukan.
+
+git push origin master
+    mengupload file ke repository
