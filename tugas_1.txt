@@ -1,0 +1,13 @@
+yang di pelajari dari pertemuan pertama:
+
+-pembahasan tentang API dan IDE
+-perbedaan dari setiap extension dari .js
+-sedikit pembahasan tentang back end
+-menyetuh sedikit tentang basic html dan js 
+-membahas tentang beberapa fitur di vs code
+
+Apa aja yang di dapat dari sesi 1:
+-pengertian lebih dalam tentang .js extension
+-penggunaaan git bash dalam windows
+-pemahaman tentang back end
+-penggunaan vs code secara efektif
