@@ -29,4 +29,4 @@ git commit -m "<message_name>"
     mengkonfirmasi item untuk di kirim dan juga membuat deskripsi tentang update yang di lakukan.
 
 git push origin master
-    mengupload file ke repository
+    mengupload file ke repository.
