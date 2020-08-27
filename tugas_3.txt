@@ -1,0 +1,10 @@
+Create summary about today lesson
+
+Teori :
+
+untuk apa fungsi dari command :
+
+git checkout -b <branch_name>
+    > Membuat branch baru dari repository dan me-assign folder ke branch baru tersebut 
+git pull origin <branch_name>
+    > mengcopy data dari branch tersebut ke folder
