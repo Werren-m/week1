@@ -1,0 +1,36 @@
+/* selector {
+    properties: values;
+} */
+
+/* h1{
+    color: olive;
+} */
+
+.header {
+    width: 900px;
+    margin: auto;
+    background-color: olive;
+    padding: 15px;
+}
+
+.menu {
+    width: 900px;
+    margin: auto;
+    background-color: green;
+    padding: 15px;
+}
+
+.article {
+    width: 900px;
+    margin: auto;
+    background-color: red;
+    padding: 15px;
+}
+
+.footer {
+    width: 900px;
+    margin: auto;
+    background-color: blue;
+    padding: 15px;
+}
+
